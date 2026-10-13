@@ -43,7 +43,7 @@ Set local paths in `config/project.json` and provision the pinned dependencies. 
 - Native animation loading and runtime binding are not proven. The two full-XYZW quaternion tracks in particular remain a runtime compatibility question.
 - The retarget keeps Grace’s playable skeleton and controls; some motion differences reflect her proportions and the accepted prototype retains rigid dress folds and neutral finger poses.
 - Facial animation, blinking, lip-sync, cloth physics, and broader original-animation integration are outside the completed scope.
-- This source snapshot has no project license. All rights remain with their respective owners; visibility on GitHub does not grant reuse rights. Add an appropriate license before inviting code reuse.
+- Original project code and documentation are licensed under the [MIT License](LICENSE). That license does not cover Capcom game assets, third-party tools, or other material identified in the repository; their respective rights and terms still apply.
 
 ## Suggested repository identity
 

@@ -6,4 +6,4 @@ Before provisioning a tool, retrieve it from the cited upstream source and revie
 
 The pipeline uses game installations and locally extracted resources. Those resources remain the property of their respective rights holders and are deliberately excluded from this repository. Keep local game-derived files, tool checkouts, and generated outputs in ignored `assets/`, `tools/`, and `build/` directories. Do not commit them or include them in release archives.
 
-No project license is currently provided. The absence of a license means this repository does not grant permission to reuse its original code or documentation. Third-party licenses continue to govern their respective works.
+Original project code and documentation are licensed under the MIT License in the repository root. That license does not cover game-derived data, third-party tools, or other third-party works; their respective rights and terms continue to govern them.
