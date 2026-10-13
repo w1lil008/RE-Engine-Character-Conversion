@@ -13,7 +13,7 @@ The project produced a playable character-replacement prototype and an offline-v
 
 ## What is excluded
 
-No Capcom game archives or extracted assets are included: no meshes, textures, native game resources, animation payloads, Blender scenes, videos, screenshots, or installable mod packages. Game-derived assets and generated build products belong in local ignored directories only. The clean publication snapshot has no prior development history; earlier history contained local paths and generated evidence. Its history starts from the source-only snapshot and contains no remote.
+No Capcom game archives or extracted assets are included: no meshes, textures, native game resources, animation payloads, Blender scenes, videos, screenshots, or installable mod packages. Game-derived assets and generated build products belong in local ignored directories only. The published history starts from a clean source-only snapshot; earlier development commits were excluded because they contained local paths and generated evidence.
 
 Some configuration and research notes contain resource identifiers and filenames needed to explain the engineering work. They are metadata, not redistributed game payloads. Do not use them as a substitute for assets from a game installation you are authorized to access.
 
