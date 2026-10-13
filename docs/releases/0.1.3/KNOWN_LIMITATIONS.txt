@@ -1,0 +1,32 @@
+KNOWN LIMITATIONS - v0.1.3
+
+Eyeballs retain L_Eye/R_Eye controls; eyelids do not blink. FACIAL_* influences
+are collapsed to Head_0. Original RE8/RE9 faces contain blendshape sections;
+the pinned reader disables their import as broken. No supported morph export
+or facial control adaptation has been established for this release.
+
+Dress movement uses skeletal weights, not cloth simulation. Rigid folds,
+hem lifting and high edge strain occur in stronger synthetic crouch/stride
+poses. Seam continuity does not prove body/cloth or self-collision avoidance.
+The accepted thigh clearance and waist/sleeve weights remain unchanged.
+
+Hair follows the corrected hood/head/neck/upper-body weighting. Native hair
+secondary motion/collision is absent. Alpha-blind BVH overlap counts are only
+diagnostics. User acceptance covers tested poses, not all cameras/cutscenes.
+
+Grace boots are retained. Bela's original heels, decorative stitches and
+animated cloak are not part of the established prototype scope. Separate
+sleeve/glove construction and covered body cutouts are intentional.
+
+Hair Strands must be OFF. Alternate outfits, damage/limb variants, dedicated
+cutscene resources and camera-specific first-person routing are not covered
+by the base-part package. Materials approximate some original facial effects;
+wrinkle masks, blood/wetness and eye overlays need separate research.
+
+Grace's playable animations and controller remain active. No original Bela
+body/facial animation conversion or voice replacement is included.
+
+v0.1.3 has current offline validation. No new v0.1.3 runtime test is claimed.
+Walking/running, crouch transitions, reloads, interactions, foot IK and wider
+cutscene compatibility require explicitly recorded in-game confirmation.
+

@@ -1,0 +1,16 @@
+natives/stm/animation/ch/ch02/ch0200/facial/motbank/ch0200_10.motbank.4
+natives/stm/animation/ch/ch02/ch0200/grapple/ch0200g6000/motbank/ch0200g6000_pl.motbank.4
+natives/stm/animation/ch/ch02/ch0200/grapple/ch0200g6000/motbank/ch0200g6000_sm.motbank.4
+natives/stm/animation/ch/ch02/ch0200/grapple/ch0200g6010/motbank/ch0200g6010_pl.motbank.4
+natives/stm/animation/ch/ch02/ch0200/grapple/ch0200g6010/motbank/ch0200g6010_sm.motbank.4
+natives/stm/animation/ch/ch02/ch0200/motbank/ch0200.motbank.4
+natives/stm/animation/ch/ch02/ch0200/motbank/ch0200_e900.motbank.4
+natives/stm/animation/ch/ch02/ch0200/motbank/ch0200fps.motbank.4
+natives/stm/animation/ch/ch02/ch0200/motbank/ch0200l.motbank.4
+natives/stm/animation/ch/ch02/ch0200/motbank/ch0200l2.motbank.4
+natives/stm/animation/ch/ch02/ch0200/motbank/ch0200l2fps.motbank.4
+natives/stm/animation/ch/ch02/ch0200/motbank/ch0200lfps.motbank.4
+natives/stm/animation/ch/ch02/ch0200/motlist/ch0200_emote.motlist.1047
+natives/stm/animation/ch/ch02/ch0200/motlist/ch0200_generalh.motlist.1047
+natives/stm/animation/ch/ch02/ch0200/motlist/ch0200_generalm.motlist.1047
+

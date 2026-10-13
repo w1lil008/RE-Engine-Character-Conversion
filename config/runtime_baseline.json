@@ -1,0 +1,14 @@
+{
+  "version": "0.1.2",
+  "purpose": "Preserve the user-tested hair/hood baseline for future development.",
+  "staging": "mod/BelaGrace_RE9_0.1.2",
+  "validation": "reports/releases/0.1.2/mod_validation.json",
+  "package_creation_manifest": "reports/releases/0.1.2/package_manifest.json",
+  "package_sha256": "77693eef1878c4ae68a2e69b54521d0ca8f0f257be0713680e1539d50e253165",
+  "native_files_signature": "5b120c8b2e76283d31ed05decf64321c216b192478f7da0c3cffa47acd50363f",
+  "runtime_acceptance": "reports/releases/0.1.2/runtime_acceptance.json",
+  "preserve_existing_native_files_and_release_archive": true,
+  "future_changes_require_a_new_version": true,
+  "full_gameplay_acceptance": false
+}
+

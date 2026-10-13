@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../../../tools/research/RE-Engine-Lib/REE-Lib/REE-Lib.csproj" />
+    <Compile Include="../../../build/animation_v0.2.0/reference/UpstreamFrameSampler.cs" Link="UpstreamFrameSampler.cs" />
+  </ItemGroup>
+</Project>
+

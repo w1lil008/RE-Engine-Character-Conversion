@@ -1,0 +1,11 @@
+natives/stm/animation/ch/ch02/ch0200/facial/motbank/ch0200_10.motbank.4
+natives/stm/animation/ch/ch02/ch0200/facial/motlist/ch0200_10_face_attack.motlist.1047
+natives/stm/animation/ch/ch02/ch0200/facial/motlist/ch0200_10_face_damage.motlist.1047
+natives/stm/animation/ch/ch02/ch0200/facial/motlist/ch0200_10_face_dead.motlist.1047
+natives/stm/animation/ch/ch02/ch0200/facial/motlist/ch0200_10_face_emotion.motlist.1047
+natives/stm/animation/ch/ch02/ch0200/facial/motlist/ch0200_10_face_eyepose.motlist.1047
+natives/stm/animation/ch/ch02/ch0200/facial/motlist/ch0200_10_face_grapplecommon.motlist.1047
+natives/stm/animation/ch/ch02/ch0200/facial/motlist/ch0200_10_face_mouth_lipsync.motlist.1047
+natives/stm/animation/ch/ch02/ch0200/facial/motlist/ch0200_10_face_photo.motlist.1047
+natives/stm/character/ch/ch02/0200/10/00/ch0200_10_00.jmap.28
+

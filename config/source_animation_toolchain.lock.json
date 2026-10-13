@@ -1,0 +1,15 @@
+{
+  "version": "10.0.401",
+  "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.401/dotnet-sdk-10.0.401-win-x64.zip",
+  "sha512": "24b670ad3d923bfcf47df6c3b034152398b42f6dbc388e10d783aee1cfb5e5817d399fc0ae2a12cfa822a55e61d34830ccb15c50ef6efee437ab874bb7c79430",
+  "runtime_sdk": {
+    "version": "8.0.425",
+    "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.425/dotnet-sdk-8.0.425-win-x64.zip",
+    "sha512": "f0b6f15bf6f1a0507205c0cb102ab99e1dee875c4682c8ed94665be1d580186a06b21455e83b3a01a0ff7f4cd887b67420f2e2fe09ed985534a4cea488ae1af9"
+  },
+  "reelib_commit": "ceb0d2fbe9d76f29c552e4c56f4fd8cd87a165ef",
+  "editor_commit": "cedd2f421b476ac50fbeb271bc71fdd3f2b2bb1c",
+  "editor_animator_sha256": "c4cc76fb8d66feee3400df5e18229bfdbf1347ead61ba77c170f48e4b1dd91b4",
+  "reference_method_sha256": "11a61719c40cb8e3bcc59aa0254ca99ad35e9f9c6628a70357a11636dad10ec5"
+}
+

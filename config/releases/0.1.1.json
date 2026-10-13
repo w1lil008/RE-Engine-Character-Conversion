@@ -1,0 +1,15 @@
+{
+  "version": "0.1.1",
+  "name": "Bela for Grace - Experimental v0.1.1",
+  "description": "Complete Bela replacement with ADS hair/hood weight correction. Base v0.1.0 renders in-game; this revision needs an ADS retest. Static face, skinned dress, Grace boots. Hair Strands OFF.",
+  "staging": "mod/BelaGrace_RE9_0.1.1",
+  "validation": "reports/releases/0.1.1/mod_validation.json",
+  "review": "reports/releases/0.1.1/alignment_review.json",
+  "manifest": "reports/releases/0.1.1/package_manifest.json",
+  "changes": "reports/releases/0.1.1/changes.json",
+  "readme": "docs/releases/0.1.1/README.txt",
+  "screenshot": "reports/runtime/2026-10-09/cutscene_closeup.png",
+  "output": "dist/BelaGrace_RE9_Prototype_0.1.1.zip",
+  "root_name": "BelaGrace_RE9_Prototype_0.1.1"
+}
+

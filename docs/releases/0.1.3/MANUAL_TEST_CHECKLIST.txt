@@ -1,0 +1,23 @@
+CONTROLLED RE9 TEST - v0.1.3
+
+Record version, game build, outfit, Hair Strands OFF, camera mode, conflicting
+mods disabled, and the scene/save used. Use the established installation.
+Mark each item pass/fail/not tested; capture a short clip for failures.
+
+[ ] Standing front/back/side: neutral likeness, neck, dress waist, normal
+    orientation, UVs, skin/hood/hair alpha and lighting remain correct.
+[ ] Turn head left/right and look up/down; walk and turn; aim with shoulders
+    raised. Hair stays with the hood without the former relative clipping.
+[ ] Walk/run, crouch/stand repeatedly and step on stairs: inspect thighs,
+    knees, pelvis, waist, dress folds and boot/floor contact.
+[ ] Aim/fire/reload/holster, then object interaction: grip, weapon attachment,
+    wrists and shoulders remain stable. Sleeve-to-glove gaps are intentional.
+[ ] Replay a previously working cutscene and one close face shot: lighting,
+    textures, hood motion and gaze remain correct. Static lids are expected;
+    do not mark blinking fixed. Eye rotation should still work.
+[ ] Exit game and disable v0.1.3; enable only preserved v0.1.2 and repeat one
+    known scene to confirm rollback. Do not change or overwrite save files.
+
+Report the exact failing action, camera, outfit and screenshot/video time.
+No full runtime acceptance should be recorded until these checks are confirmed.
+

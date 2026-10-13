@@ -1,0 +1,32 @@
+{
+  "version": "0.1.2",
+  "name": "Bela for Grace - Experimental v0.1.2",
+  "description": "Complete Bela replacement with expanded lower-lock hood weights. v0.1.1 ADS clipping was reduced but remained; this revision needs a fresh ADS/cutscene retest. Static face, skinned dress, Grace boots. Hair Strands OFF.",
+  "staging": "mod/BelaGrace_RE9_0.1.2",
+  "validation": "reports/releases/0.1.2/mod_validation.json",
+  "review": "reports/releases/0.1.2/alignment_review.json",
+  "manifest": "reports/releases/0.1.2/package_manifest.json",
+  "changes": "reports/releases/0.1.2/changes.json",
+  "hair_validation": "reports/headwear_v2/native_candidate_validation.json",
+  "hair_review": "reports/headwear_v2/candidate_review.json",
+  "hair_scope": "reports/headwear_v2/assembly_scope_audit.json",
+  "readme": "docs/releases/0.1.2/README.txt",
+  "screenshot": "reports/runtime/2026-10-09/cutscene_closeup.png",
+  "output": "dist/BelaGrace_RE9_Prototype_0.1.2.zip",
+  "root_name": "BelaGrace_RE9_Prototype_0.1.2",
+  "authored_files": [
+    "scripts/headwear_diagnostics.py",
+    "scripts/export_headwear_candidate.py",
+    "scripts/audit_headwear_candidate.py",
+    "scripts/assemble_release.py",
+    "config/releases/0.1.2.json",
+    "docs/releases/0.1.2/README.txt",
+    "docs/releases/0.1.2/STATUS_BEFORE_PACKAGING.md",
+    "README.md",
+    "docs/STATUS.md",
+    "docs/HEADWEAR.md",
+    "docs/PIPELINE.md",
+    "docs/RUNTIME_TESTS.md"
+  ]
+}
+

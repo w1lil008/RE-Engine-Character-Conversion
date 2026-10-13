@@ -1,0 +1,5 @@
+natives/stm/character/ch/ch02/0200/0201/ch02_0201_gpucloth.mesh.2101050001
+natives/stm/character/ch/ch02/0200/0201/ch02_0201_gpucloth.mdf2.19
+natives/stm/character/ch/prefab/gallery/ch02_0000/ch02_0000_body_gallery.mesh.2101050001
+natives/stm/character/ch/prefab/gallery/ch02_0200/ch02_0201_gpucloth_gallery.mesh.2101050001
+

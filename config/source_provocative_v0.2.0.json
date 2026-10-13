@@ -1,0 +1,29 @@
+{
+  "source": "assets/extracted/re8/natives/stm/character/ch/animation/ch02_0500/motlist/ch02_0500general.motlist.486",
+  "sha256": "e8b9e4319ac382c4017eb4392d1ee722e6eb8da9833cc24ce77b3f080c734478",
+  "clip": "ch02_0500_General_Emotion_Eldest_Provocative",
+  "offset": 794800,
+  "motion_id": 200,
+  "switch_id": 0,
+  "list_slot": 10,
+  "bank_id": 10,
+  "fps": 60,
+  "frames": 222,
+  "rest_bones": 129,
+  "bone_tracks": 111,
+  "output": "build/animation_v0.2.0/source_provocative",
+  "source_meshes": [
+    "assets/extracted/re8/natives/stm/character/ch/ch02/0000/0000/ch02_0000_body.mesh.2101050001",
+    "assets/extracted/re8/natives/stm/character/ch/ch02/0000/0020/ch02_0020_face.mesh.2101050001",
+    "assets/extracted/re8/natives/stm/character/ch/ch02/0000/0040/ch02_0040_bela_hair.mesh.2101050001",
+    "assets/extracted/re8/natives/stm/character/ch/ch02/0200/0201/ch02_0201_gpucloth.mesh.2101050001"
+  ],
+  "excluded_auxiliary_geometry": [
+    {
+      "path": "assets/extracted/re8/natives/stm/character/ch/ch02/0000/0010/ch02_0010_witch _cloak.mesh.2101050001",
+      "reason": "Auxiliary animated cloak/effect geometry is not reconstructed by the body MOT. Its flat rest geometry obscures the body preview; external deformation is outside this skeletal experiment. Original extracted file and the initial diagnostic preview are retained."
+    }
+  ],
+  "scope": "Original RE8 authored skeletal animation only. No RE9 writer, controller modification, facial conversion or installation."
+}
+

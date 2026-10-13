@@ -1,0 +1,31 @@
+{
+  "status": "EXPERIMENTAL_NOT_IN_GAME_TESTED",
+  "source_body": "ch02_0000_body",
+  "source_clothing": "ch02_0201_gpucloth",
+  "source_face": "ch02_0020_face",
+  "source_hair": "ch02_0040_bela_hair",
+  "target_rig_parts": ["ch0200_10_00", "ch0200_40_00", "ch0200_50_00", "ch0200_01_00", "ch0200_02_00"],
+  "target_meshes": {
+    "upper": ["ch0200_40_00", "ch0200_40_01"],
+    "lower": ["ch0200_50_00"],
+    "negative_x_hand": ["ch0200_01_00"],
+    "positive_x_hand": ["ch0200_02_00"],
+    "face": ["ch0200_10_00"],
+    "hair": ["ch0200_20_00", "ch0200_21_00"]
+  },
+  "split_height": 0.96,
+  "local_scale": 0.9,
+  "facial_mode": "rigid_head",
+  "physics_mode": "static_hair_skinned_skirt",
+  "clothing_weight_file": "assets/work/clothing_weights.json",
+  "clothing_surface_weight_file": "assets/work/clothing_surface_weights.json",
+  "skirt_weight_regularization": {"knee_max": 0.6, "hip_width": 0.12, "knee_offset": 0.28, "knee_width": 0.60, "side_width": 0.32, "transition_offset": 0.25, "transition_width": 0.32},
+  "garment_surface_smoothing": {"iterations": 40, "freeze_offset_from_hip": 0.02, "fade_width": 0.15, "quantization_m": 0.00005},
+  "garment_clearance": {"amount_m": 0.025, "lower_start": 0.60, "lower_fade_width": 0.20, "upper_end": 1.02, "upper_fade_width": 0.14},
+  "footwear_fit": "original_Grace_boots",
+  "boot_coverage_cutoff_y": 0.20,
+  "excluded_clothing_materials": ["Stitch_Hood1_Mat", "Stitch_Hood2_Mat", "Stitch_Hood3_Mat", "Stitch_Sleeve1_Mat"],
+  "bone_overrides": {},
+  "notes": ["Standard base parts only. FBI overcoat, damaged limbs, DLC outfits and dedicated cutscene parts are outside this prototype.", "Hair Strands must be OFF. User confirmed GraceBun disabled on 2026-10-09.", "No gameplay animation files, skeleton runtime assets or prefabs are overwritten."]
+}
+

@@ -1,0 +1,17 @@
+{
+  "blender": {
+    "version": "4.3.2",
+    "executable": "tools/blender-4.3.2-windows-x64/blender.exe",
+    "archive": "https://download.blender.org/release/Blender4.3/blender-4.3.2-windows-x64.zip",
+    "archive_sha256": "933a62a770c941e316535f893629ff106ddd2aa5a956f0081ec557439073d4f6",
+    "use_global_installation": false
+  },
+  "repositories": [
+    {"repository": "NSACloud/RE-Mesh-Editor", "version": "0.66", "commit": "622daa75b41ec622c3444ecb44ef31a651692687", "archive_sha256": "4169aabec3a6bf0f41179477260ee0b1a1c0523c860c8a76b3d088eade66e3c3"},
+    {"repository": "NSACloud/RE-Asset-Library", "version": "0.25", "commit": "4d04bde69693b2eb613fb0b9625a2dc3282f74d5", "archive_sha256": "b896ee02cc6c09dd88e93df5902d1c5d6c1327fc795ea697e843543e6225e520"},
+    {"repository": "Ekey/REE.PAK.Tool", "usage": "filename lists only", "commit": "3626a12a82c5fad753abd0f4fb33f90405c59a04", "archive_sha256": "eff83a6c3b7aeefc5758c25ff2b22480627447b77351c546bccccbcb6a9d5e09"}
+  ],
+  "python": {"validated_version": "3.12.14", "zstandard": "0.25.0", "numpy": "available in project runtime", "Pillow": "12.3.0"},
+  "runtime_game_tools": {"REFramework_local_commit": "d1461375aee4ec3f313170f8eaad12064eb542d9", "Fluffy_local_version": "3.084"}
+}
+

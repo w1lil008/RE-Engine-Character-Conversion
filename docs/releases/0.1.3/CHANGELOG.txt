@@ -1,0 +1,33 @@
+v0.1.3 - Stabilization - 10 October 2026
+
+- Recovered and hash-verified the exact accepted v0.1.2 ZIP from the existing
+  mod-manager copy. Preserved complete archive, source/evidence snapshot and
+  prepared sidecars. Created the first Git source checkpoint.
+- Added an isolated source rebuild command. All 80 rebuilt native payloads
+  match accepted v0.1.2 byte-for-byte, including all 41 texture payloads.
+- Strengthened current validation of original Grace hierarchy/bind matrices,
+  palette names, weight indices, finite UVs and normals.
+- Added a regression protecting accepted hood-follow hair weights while
+  preserving positions/topology/UVs/normals and Grace's 611-bone rig.
+- Reimported current native parts for 14 body and 14 headwear fixtures;
+  reviewed 20 renders and repeated skin/dress seam audits.
+- Documented actual facial rig and eye-pose resource findings. Blinking is
+  deferred pending decoded poses, weight adaptation and runtime trigger proof.
+- Confirmed the garment is skinned, with transferred/smoothed weights and
+  bounded clearance. Preserved the accepted correction; native cloth deferred.
+- Corrected stale project status and supplied accurate install, rollback,
+  limitations, manual test checklist and native/source build manifest.
+
+Native payload changes from v0.1.2: NONE.
+No hair trimming, new skeleton, animation-controller replacement, runtime
+hooks, new physics, face-neutral change or garment retuning is included.
+The new ZIP requires a controlled installation/runtime confirmation.
+
+v0.1.2 - Existing accepted baseline
+Extended hood-derived weights to lower forward locks; geometry unchanged.
+Recorded ADS hair/hood acceptance; wider scene/action coverage remains limited.
+
+v0.1.1 / v0.1.0 - Existing earlier prototypes
+First headwear correction and original playable character transplant.
+Preserved historical manifests describe their exact scope separately.
+

@@ -1,0 +1,29 @@
+{
+  "purpose": "Read-only research source snapshot; not part of production toolchain",
+  "inspected_on": "2026-10-10",
+  "repository": "https://github.com/kagenocookie/RE-Engine-Lib",
+  "commit": "ceb0d2fbe9d76f29c552e4c56f4fd8cd87a165ef",
+  "files": [
+    {
+      "path": "REE-Lib/RszFile/MotFile.cs",
+      "sha256": "592d3f6bd86495693f1723c74fa4138e316184796a1aa9dc0499e9fe3b7988c5"
+    },
+    {
+      "path": "REE-Lib/RszFile/MotlistFile.cs",
+      "sha256": "a22c5d3372889032af1d82030585d34220f72565fce5dd3248d5478e0a7d901e"
+    },
+    {
+      "path": "REE-Lib/RszFile/MotbankFile.cs",
+      "sha256": "52b97cab8d8d14f55433563cef6fe1561edecbea21291375170b6cb173ae36fc"
+    },
+    {
+      "path": "REE-Lib/OtherFiles/GpucFile.cs",
+      "sha256": "8db1d75e3ab1fa347bf13cc3cb4c19a7b60c5bd820b1c73dffad22ab39c566a1"
+    },
+    {
+      "path": "REE-Lib/OtherFiles/JmapFile.cs",
+      "sha256": "525403eac48ec52a2d575481feb02f2f960e7c86e9b0ccf14dda863e8ead2be7"
+    }
+  ]
+}
+

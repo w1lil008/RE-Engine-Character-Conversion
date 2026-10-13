@@ -1,0 +1,29 @@
+{
+  "version": "0.1.3",
+  "name": "Bela for Grace - Prototype v0.1.3",
+  "description": "Standalone stabilization release. All 80 native payloads match accepted v0.1.2; reproducible rebuild, current offline QA and accurate limitations. Eyeballs work; blinking deferred. Skinned dress; Hair Strands OFF.",
+  "staging": "mod/BelaGrace_RE9_0.1.3",
+  "validation": "reports/releases/0.1.3/mod_validation.json",
+  "review": "reports/releases/0.1.3/alignment_review.json",
+  "manifest": "reports/releases/0.1.3/package_manifest.json",
+  "build_manifest": "reports/releases/0.1.3/build_manifest.json",
+  "readme": "docs/releases/0.1.3/README.txt",
+  "screenshot": "reports/runtime/2026-10-09/v0.1.2_ads_hair_clear.png",
+  "output": "dist/BelaGrace_RE9_Prototype_0.1.3.zip",
+  "root_name": "BelaGrace_RE9_Prototype_0.1.3",
+  "package_documents": {
+    "CHANGELOG.txt": "docs/releases/0.1.3/CHANGELOG.txt",
+    "KNOWN_LIMITATIONS.txt": "docs/releases/0.1.3/KNOWN_LIMITATIONS.txt",
+    "MANUAL_TEST_CHECKLIST.txt": "docs/releases/0.1.3/MANUAL_TEST_CHECKLIST.txt",
+    "BUILD_MANIFEST.json": "reports/releases/0.1.3/build_manifest.json"
+  },
+  "archive_date": [
+    2026,
+    10,
+    10,
+    0,
+    0,
+    0
+  ]
+}
+

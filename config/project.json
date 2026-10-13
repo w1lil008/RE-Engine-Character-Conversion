@@ -1,0 +1,22 @@
+{
+  "games": {
+    "re8": "<SET_LOCAL_RE8_INSTALL_PATH>",
+    "re9": "<SET_LOCAL_RE9_INSTALL_PATH>"
+  },
+  "platform": "stm",
+  "source_prefix": "natives/stm/character/ch/ch02/0000/",
+  "target_prefix": "natives/stm/character/ch/ch02/0200/",
+  "target_identity_status": "confirmed_by_local_GraceBun_mod_paths_and_original_base_meshes",
+  "mesh_versions": {
+    "re8": 2101050001,
+    "re9": 250925211
+  },
+  "mdf_versions": {
+    "re8": 19,
+    "re9": 51
+  },
+  "texture_versions": {
+    "re8": 30,
+    "re9": 250813143
+  }
+}
